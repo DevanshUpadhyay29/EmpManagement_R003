@@ -19,6 +19,7 @@ public class Employee {
 	@Id
 	private int empId;
 	private String empName;
+	private int empSal;
 	private String empDesg;
 	private Date empDOJ;
 	
